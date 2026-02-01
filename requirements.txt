@@ -4,6 +4,7 @@ ipython
 jupyterlab
 loguru
 matplotlib
+altair
 mkdocs
 notebook
 numpy
